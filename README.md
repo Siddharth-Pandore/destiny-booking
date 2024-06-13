@@ -1,5 +1,9 @@
 # Booking_clone
 This project is a clone of famous Hotel booking website Booking.com (frontend)
+![Screenshot 2024-06-13 135518](https://github.com/Siddharth-Pandore/destiny-booking/assets/139606136/fea99bf2-3aae-4fc4-be37-d78dd000b225)
+![Screenshot 2024-06-13 135532](https://github.com/Siddharth-Pandore/destiny-booking/assets/139606136/a6bdb8bf-de7c-47d1-a37d-6e07c93146a6)
+![Screenshot 2024-06-13 135540](https://github.com/Siddharth-Pandore/destiny-booking/assets/139606136/d1110295-bca5-4eaf-8179-f6cba65f19c0)
+![2024-06-13 (1)](https://github.com/Siddharth-Pandore/destiny-booking/assets/139606136/6600f2a0-2a92-4e46-a417-4fd8b4857126)
 
 # Getting Started with Create React App
 
